@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": ""
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
